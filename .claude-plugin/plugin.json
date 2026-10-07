@@ -1,0 +1,11 @@
+{
+  "name": "peyl-design-partner",
+  "displayName": "My PEYL Design Partner",
+  "version": "0.1.0",
+  "author": { "name": "PEYL Design Partner" },
+  "license": "CC-BY-NC-4.0",
+  "homepage": "https://sites.google.com/view/peyl-design-partner/",
+  "repository": "https://github.com/inaludji/peyl-design-partner",
+  "description": "Helps Indonesian primary English teachers (Grades 3–6) design, improve, simplify, scaffold, extend, run and check English-learning activities using PEYL principles. Replies in English or Bahasa Indonesia; activity content is written in English.",
+  "keywords": ["english", "peyl", "primary", "teacher", "indonesia", "activity-design", "scaffolding", "assessment"]
+}
